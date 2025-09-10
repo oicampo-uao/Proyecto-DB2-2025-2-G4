@@ -1,5 +1,16 @@
 # Proyecto-DB2-2025-2-G4
 # 2o Corte: 
+| GRUPO 4: NAVEGACIÓN AUTÓNOMA ACCESIBLE PARA PERSONAS CON DISCAPACIDAD VISUAL |          |       |           |       |         |
+| ---------------------------------------------------------------------------------------- | -------- | ----- | --------- | ----- | ------: |
+|                                                                                          | PUNTAJE  |       |           |       |         |
+| CRITERIOS DE EVALUACIÓN                                                                  | CRITERIO | OSCAR | ALEJANDRA | LAURA | PUNTAJE |
+| ALINEACIÓN CON LOS OBJETIVOS DE LA FOAL (Educación, Inclusión Laboral, Inclusión Social) | 20%      | 3,00  | 3,00      | 3,80  |    3,27 |
+| RELEVANCIA DEL PROBLEMA A RESOLVER Y SU POSIBLE IMPACTO (PERTINENCIA SOCIAL)             | 35%      | 3,50  | 3,00      | 3,30  |    3,33 |
+| NIVEL DE INNOVACIÓN O CREATIVIDAD                                                        | 30%      | 2,50  | 1,00      | 2,50  |    2,00 |
+| ENFOQUE TERRITORIAL                                                                      | 15%      | 3,50  | 3,50      | 3,80  |    3,60 |
+| PUNTAJE TOTAL GRUPO                                                                      | 100%     |       |           |       |    2,96 |
+
+
 ## Diseño de detalle
 - Normas a Aplicar
 - Diseño de detalle
