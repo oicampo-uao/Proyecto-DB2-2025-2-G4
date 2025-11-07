@@ -1,0 +1,23 @@
+Sugerencias
+
+Línea 62  : El dato "el 71,4 % de esta población ha abandonado sus estudios" es una estadística muy específica y potente. Es imperativo citar la fuente original de este dato (ej. un censo, un estudio previo, un informe gubernamental) para dar validez científica a la afirmación.
+
+Línea 64  : Un estudio con 14 participantes es una muestra pequeña. Si bien es válido para un estudio piloto o exploratorio, las conclusiones deben ser redactadas con cautela. En lugar de "revelan que el sistema educativo...", se podría usar un lenguaje más prudente como "sugieren que el sistema educativo..." o "indican posibles deficiencias en el sistema educativo...". Se debe reconocer esta limitación.
+
+Línea 86  : La frase "revelando una brecha profunda entre las políticas de inclusión y la realidad cotidiana de los afectados" es una construcción muy común y algo cliché, frecuentemente utilizada por modelos de lenguaje para sonar elocuente. Se sugiere reformularla para ser más específico sobre la naturaleza de esa brecha en el contexto del Valle del Cauca.
+
+Línea 93  : La afirmación de que "entre el 25 % y el 75 % de los dispositivos de asistencia son abandonados" debe estar respaldada por una cita académica. Sin una referencia a los "estudios internacionales" mencionados, la afirmación pierde rigor.
+
+Línea 123  : La expresión "perpetuando un ciclo de desigualdad difícil de romper" es una frase hecha que, si bien es comprensible, carece de originalidad y es un indicador común de texto generado por IA. Se recomienda describir el mecanismo de ese ciclo de forma más concreta y analítica.
+
+Línea 126  : El párrafo que concluye con "Por todo lo anterior, se hace evidente la necesidad de desarrollar soluciones tecnológicas accesibles, sostenibles y adaptadas..." utiliza una estructura formulaica. La concatenación de adjetivos de moda ("accesibles, sostenibles, adaptadas") y una lista de tecnologías es un patrón típico de los LLMs. Se debería reescribir para enfocarse en la contribución específica y única que se propone.
+
+Línea 144  : La sección "Justificación" repite de forma casi idéntica varias afirmaciones y datos de la sección "Problemática" (ej. líneas 147-148 y 153-157). La justificación no debe ser un resumen del problema, sino un argumento que explique por qué el proyecto propuesto ("Wyfrimer") es una solución pertinente, novedosa y viable para el problema ya expuesto.
+
+Línea 191  : Las citas a la OMS y la ONU son pertinentes, pero están incompletas. Se debe utilizar un formato de citación estándar (APA, IEEE, etc.). En la primera mención se debe escribir el nombre completo de la organización, por ejemplo: "Organización Mundial de la Salud (OMS), 2023". Además, se debe hacer referencia a la publicación o informe específico y listarlo en una sección de Referencias.
+
+Línea 194  : Al igual que con otros datos, la estadística "más de mil millones de personas en el mundo necesitan tecnologías de apoyo" requiere una cita precisa del informe de la OMS de donde se extrajo.
+
+Línea 196  : La oración "...constituye una alternativa sostenible que contribuye a cerrar esta brecha y promueve la equidad tecnológica en el país" está cargada de términos genéricos y aspiracionales ("alternativa sostenible", "cerrar esta brecha", "promueve la equidad"). Este tipo de redacción optimista y poco específica es característica de la escritura de IA. Sería más fuerte explicar "cómo" el proyecto logra esto de manera tangible.
+
+Línea 206  : El párrafo final completo (líneas 206-212) tiene un tono excesivamente grandilocuente y generalista, típico de un resumen generado por IA. Frases como "valor ético y social incuestionable", "fortalecimiento de una sociedad más equitativa" y "modelo de innovación sostenible" son abstractas. La conclusión de la justificación debería ser más mesurada y enfocada en los impactos directos y medibles del proyecto propuesto.
